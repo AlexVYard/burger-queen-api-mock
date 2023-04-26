@@ -32,7 +32,7 @@ content-type: application/json
 authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlLmhvcHBlckBzeXN0ZXJzLnh5eiIsImlhdCI6MTY2NjEyNTQ5NSwiZXhwIjoxNjY2MTI5MDk1LCJzdWIiOiIyIn0.laNI7HKXIcDzCp1AYl4aMWh5jSlcMFKFQLHrCC2XTPw
 
 {
-    "client": "Harry Potter",
+    "client": "Zooey Zephyr",
     "products": [
         {
             "qty": 1,

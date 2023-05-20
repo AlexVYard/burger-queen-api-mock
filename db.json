@@ -29,7 +29,9 @@
         }
       ],
       "status": "pending",
-      "dataEntry": "2022-03-05 15:00"
+      "dataEntry": "2022-03-05 15:00",
+      "dateProcessed": "not processed",
+      "dateDelivered": "not delivered",
     },
     {
       "id": 2,
@@ -61,8 +63,30 @@
       ],
       "status": "delivered",
       "dataEntry": "2022-03-05 15:00",
-      "dateProcessed": "2022-03-05 16:00"
-    }
+      "dateProcessed": "2022-03-05 16:00",
+      "": "not delivered",
+    },
+    {
+      "client": "Alexa",
+      "products": [
+        {
+          "qty": 3,
+          "product": {
+            "id": 3,
+            "name": "Agua 500ml",
+            "price": 500,
+            "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
+            "type": "Almuerzo",
+            "dateEntry": "2022-03-05 15:14:10"
+          }
+        }
+      ],
+      "status": "delivered",
+      "dataEntry": "5/19/2023, 8:47:37 PM",
+      "dateProcessed": "5/19/2023, 8:47:40 PM",
+      "dateDelivered": "5/19/2023, 8:47:48 PM",
+      "id": 3
+    },
   ],
   "products": [
     {

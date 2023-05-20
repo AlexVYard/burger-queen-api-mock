@@ -31,7 +31,7 @@
       "status": "pending",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "not processed",
-      "dateDelivered": "not delivered",
+      "dateDelivered": "not delivered"
     },
     {
       "id": 2,
@@ -64,7 +64,7 @@
       "status": "delivered",
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00",
-      "dateDelivered": "not delivered",
+      "dateDelivered": "not delivered"
     }
   ],
   "products": [
